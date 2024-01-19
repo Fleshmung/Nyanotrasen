@@ -8,15 +8,11 @@ Space Station 14 is a remake of SS13 that runs on [Robust Toolbox](https://githu
 ## Links
 
 #### Nyanotrasen
-[Website](https://nyanotrasen.moe) | [Wiki](https://wiki.nyanotrasen.moe/view/Main_Page) | [Discord](https://discord.gg/nyano)
+[Website](https://nyanotrasen.moe) | [Wiki](https://wiki.nyanotrasen.moe/view/Main_Page) | [Discord](https://discord.gg/UbmbWcVMpH)
 
-#### Space Station 14
+## Documentation
 
-[Website](https://spacestation14.io/) | [Discord](https://discord.ss14.io/) | [Forum](https://forum.spacestation14.io/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Download](https://spacestation14.io/about/nightlies/)
-
-## Documentation/Wiki
-
-The [docs site](https://docs.spacestation14.io/) has documentation on SS14s content, engine, game design and more. It has lots of resources for new contributors to the project.
+See the [docs site](https://docs.spacestation14.io/).
 
 ## Contributing
 
